@@ -1,0 +1,17 @@
+commit 047546398f1355f0ab09caa77d5890b480682f22
+Author: lemus96 <alejandrolemus1996@gmail.com>
+Date:   Tue Jul 7 16:30:31 2020 -0500
+
+    added gitignore
+
+commit f84154d4928ef86b3121c6adf087be8f4599425d
+Author: lemus96 <alejandrolemus1996@gmail.com>
+Date:   Tue Jul 7 15:13:35 2020 -0500
+
+    added two files
+
+commit f813de0d4b023d2abd2996fda37373453d1b2348
+Author: lemus96 <alejandrolemus1996@gmail.com>
+Date:   Tue Jul 7 14:48:23 2020 -0500
+
+    added readme.txt
