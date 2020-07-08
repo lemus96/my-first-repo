@@ -1,31 +1,27 @@
-# This is a large heading
+# Some personal info
 
-## This is a smaller heading
+## Despite nobody cares
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I hope to be able to keep learning **UNIX-like operating** systems
+so I can enhance my career. Currently I'm struggling to get a job,
+which makes me feel really bad an underrated. *I hope this situation to be temporary*.
 
-- This is
-- an unordered
-- list
+My preferences are:
 
-1. This is
-2. an ordered
-3. list
+- Embedded systems design
+- Python programming
+- Computer Architecture
+- Computer Organization
 
-Here is `some code` in the middle of a sentence.
+I would like to have the oportunity to get a Master Degree, but due to my economic
+situation `I can't have acces to higher level education`.
+
 
 ```
-This is
-a block
-of code
+I'm  unemployed.
+I don't have acces to higher level education
+Feels really bad.
+But there is some hope, I think so...
 ```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
 
 nano README.md
