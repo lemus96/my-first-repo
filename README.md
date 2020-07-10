@@ -12,6 +12,8 @@ My preferences are:
 - Python programming
 - Computer Architecture
 - Computer Organization
+- Data Science
+- IT Automation
 
 I would like to have the oportunity to get a Master Degree, but due to my economic
 situation `I can't have acces to higher level education`.
